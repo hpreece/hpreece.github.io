@@ -8,7 +8,7 @@
 
   tbar {
       width: 92%;
-      height: 50px;
+      height: 120px;
       padding: 20px;
       background: #272822;
       border: 3px solid white;
@@ -36,7 +36,7 @@ a {
   padding: 2em 2.5em;
   text-decoration: none;
   text-transform: uppercase;
-  text-align:right;
+  text-align:center;
 }
 
 a:hover {
