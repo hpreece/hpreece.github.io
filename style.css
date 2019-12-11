@@ -6,6 +6,11 @@
       border: 3px solid white;
       }
 
+  div {
+    font-family: arial;
+    color: white;
+    text-align: left;
+  }
 
   tbar {
       width: 92%;
