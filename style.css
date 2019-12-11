@@ -10,8 +10,8 @@
     font-family: arial;
     color: white;
     text-align: right;
-    outline: 1px dashed #ff0066;
-    width: 40$;
+    outline: 1px dotted #ff0066;
+    width: 40%;
   }
 
   tbar {
