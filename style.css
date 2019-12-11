@@ -7,12 +7,13 @@
       }
 
   div {
+    position: relative;
     background: #272822;
     font-family: arial;
     color: white;
     text-align: right;
     outline: 1px dotted #ff0066;
-    width: 40vw;
+    width: 43vw;
     right:10px;
   }
 
