@@ -1,11 +1,20 @@
   main {
-      width: 92%;
+      width: 80%;
       height: 150px;
       padding: 20px;
       background: #272822;
       border: 3px solid white;
-      }
-
+      
+  div {
+      width: 80%;
+      height: 150px;
+      padding: 20px;
+      background: #272822;
+      border: 3px solid white;
+      text-align: right;
+      color: white;
+      font-family: arial ;
+  }
   tbar {
       width: 92%;
       height: 120px;
@@ -22,6 +31,7 @@
       font-family: sans-serif;
       color: white;
       text-align:right;
+      border-bottom: 1px solid #ff0066
       }
 
   p2 {
