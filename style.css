@@ -10,6 +10,7 @@
     font-family: arial;
     color: white;
     text-align: right;
+    outline: 1px dashed #ff0066;
   }
 
   tbar {
