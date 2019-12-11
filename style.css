@@ -33,7 +33,7 @@
 a {
     background-color: white;
   color: #272822;
-  padding: 2em 2.5em;
+  padding: 2em 10em;
   text-decoration: none;
   text-transform: uppercase;
   text-align:center;
@@ -55,5 +55,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 500vh;
+  height: 100vh;
 }
