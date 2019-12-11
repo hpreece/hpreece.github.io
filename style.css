@@ -5,11 +5,7 @@
       background: #272822;
       border: 3px solid white;
       
-  div {
-      text-align: right;
-      color: white;
-      font-family: arial ;
-  }
+
   tbar {
       width: 92%;
       height: 120px;
