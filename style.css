@@ -31,20 +31,21 @@
       }
 
 a {
-    background-color: #272822;
-  color: white;
-  padding: 1em 1.5em;
+    background-color: white;
+  color: #272822;
+  padding: 2em 2.5em;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 a:hover {
-  background-color: white;
-  color:#272822;
+  color: white;
+  background-color:#272822;
 }
 
 a:active {
   background-color: #ff0066;
+  color:white;
 }
 
 /* Non-Demo Styles */
