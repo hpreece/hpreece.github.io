@@ -31,7 +31,7 @@
       }
 
 a {
-    background-color: red;
+    background-color: #272822;
   color: white;
   padding: 1em 1.5em;
   text-decoration: none;
@@ -39,11 +39,12 @@ a {
 }
 
 a:hover {
-  background-color: #555;
+  background-color: white;
+  color:#272822;
 }
 
 a:active {
-  background-color: black;
+  background-color: #ff0066;
 }
 
 /* Non-Demo Styles */
