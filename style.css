@@ -1,0 +1,31 @@
+  main {
+      width: 92%;
+      height: 120px;
+      padding: 20px;
+      background: #272822;
+      border: 3px solid white;
+      }
+
+  tbar {
+      width: 92%;
+      height: 50px;
+      padding: 20px;
+      background: #272822;
+      border: 3px solid white;
+      }
+  h1 {
+      font-family: cambria;
+      color: white;     
+      text-align:right;
+      }
+  p {
+      font-family: sans-serif;
+      color: white;
+      text-align:right;
+      }
+
+  p2 {
+    font-family: :sans-serif;
+    color: black;
+    text-align:right;
+      }
