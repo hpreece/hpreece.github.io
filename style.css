@@ -46,10 +46,6 @@ a:active {
   background-color: black;
 }
 
-a:visited {
-  background-color: #ccc;
-}
-
 /* Non-Demo Styles */
 body {
   display: flex;
