@@ -1,6 +1,6 @@
   main {
       width: 80%;
-      height: 150px;
+      height: 250px;
       padding: 20px;
       background: #272822;
       border: 3px solid white;
@@ -40,7 +40,8 @@
       }
 
 hr {
-  border-width: 20px;
+
+  border-bottom: 20px;
   background-color: white;
 }
 
