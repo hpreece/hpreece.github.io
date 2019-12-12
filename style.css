@@ -41,8 +41,14 @@
 
 hr {
 
-  border-bottom: 20px;
-  background-color: white;
+  width: 80%;
+  height: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:white;
+  border: 0 none;
+  margin-top: 100px;
+  margin-bottom:100px;
 }
 
 a {
