@@ -39,6 +39,17 @@
     text-align:right;
       }
 
+hr {
+  display: block;
+  margin-before: 0.5em;
+  margin-after: 0.5em;
+  margin-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 8px;
+  background-color: white;
+}
+
 a {
     background-color: white;
   color: #272822;
