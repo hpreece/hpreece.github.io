@@ -40,13 +40,7 @@
       }
 
 hr {
-  display: block;
-  margin-before: 0.5em;
-  margin-after: 0.5em;
-  margin-end: auto;
-  overflow: hidden;
-  border-style: inset;
-  border-width: 8px;
+  border-width: 20px;
   background-color: white;
 }
 
