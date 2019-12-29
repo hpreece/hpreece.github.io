@@ -84,6 +84,12 @@ body {
 
 }
 
+.column p {
+  font-family: sans-serif;
+  color: white;
+  text-align:right;
+}
+
 .row:after {
   content: "";
   display: table;
