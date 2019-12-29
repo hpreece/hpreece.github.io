@@ -25,16 +25,16 @@ body {
       color: white;     
       text-align:right;
       }
-  p {
+  .header p {
       font-family: sans-serif;
       color: white;
       text-align:right;
       border-bottom: 1px solid #ff0066
       }
 
-  .header  p2 {
-    font-family: :sans-serif;
-    color: black;
+   p2 {
+    font-family: arial;
+    color: white;
     text-align:right;
       }
 
