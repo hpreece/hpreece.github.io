@@ -65,3 +65,14 @@ body {
   color:white;
 }
 
+.column {
+  width:100%;
+  background-color: #272822;
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
