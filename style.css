@@ -92,6 +92,11 @@ body {
   text-align:right;
 }
 
+.container {
+  position:relative;
+  background-color: #272822;
+}
+
 .row:after {
   content: "";
   display: table;
