@@ -92,10 +92,7 @@ body {
   text-align:right;
 }
 
-.container {
-  position:relative;
-  background-color: #272822;
-}
+
 
 .row:after {
   content: "";
@@ -108,6 +105,21 @@ body {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
+}
+
+.polaroidc {
+  width: 31.5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.polaroidr {
+  width: 31.5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  float:right;
 }
 
 .container {
