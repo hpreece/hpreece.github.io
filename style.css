@@ -38,6 +38,11 @@ body {
     text-align:right;
       }
 
+  h2 { font-family: arial;
+       color:white;
+       text-align:right; 
+}
+
   .topnav {
     background: #272822;
     font-family: arial;
