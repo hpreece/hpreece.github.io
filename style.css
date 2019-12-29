@@ -60,6 +60,7 @@ body {
   text-transform: uppercase;
   text-align:center;
   font-family:arial;
+  border:3px solid #272822;
 }
 
 .topnav a:hover {
