@@ -51,7 +51,7 @@ body {
   float: left;
   background-color: white;
   color: #272822;
-  display: inline-block;
+  display: block;
   padding: 1em 1em;
   text-decoration: none;
   text-transform: uppercase;
