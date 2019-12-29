@@ -43,6 +43,7 @@ body {
     font-family: arial;
     color: white;
     text-align: right;
+    overflow: hidden;
 
   }
 
@@ -53,6 +54,7 @@ body {
   float: left;
   background-color: white;
   color: #272822;
+  display: block;
   padding: 1em 1em;
   text-decoration: none;
   text-transform: uppercase;
